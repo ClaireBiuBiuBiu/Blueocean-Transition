@@ -1,0 +1,8 @@
+• Daily morning query with column "Held Back" -> subject: "Hidden sessions". Filename "hidden_sessions.csv"
+• Email goes to: SE.Oms@blueocean.ai, will.c@blueocean.ai with Cc: beth.granado@blueocean.ai, bret@blueocean.ai
+
+• Daily morning query with column "Not Yet Visible" -> subject: "Brand sessions not yet visible to customers". Filename "brand_sessions_not_yet_visible.csv"
+• Email goes to: SE.Oms@blueocean.ai, will.c@blueocean.ai with Cc: beth.granado@blueocean.ai, bret@blueocean.ai
+
+• Weekly query of User, CompetitiveSet tables with inner join to Brand_User_role table -> subject: "Customer emails assigned to competitive sets". Filename "users_assigned_to_sets.csv"
+Email goes to: jamie.plankenhorn@blueocean.ai, grant@blueocean.ai with Cc: mike@blueocean.ai, beth.granado@blueocean.ai, bret@blueocean.ai
