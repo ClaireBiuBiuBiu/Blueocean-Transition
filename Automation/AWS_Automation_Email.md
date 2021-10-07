@@ -28,7 +28,7 @@ This repo is set for Blueocean transition related documentation in aws automatio
 ![image](https://user-images.githubusercontent.com/43761876/136408608-42ce7304-6a84-4931-9b31-0deb69d9e7d8.png)
 
 **Lambda_query_daily** :mysql-csv-email: https://us-west-2.console.aws.amazon.com/lambda/home?region=us-west-2#/functions/mysql-csv-email?tab=code
-![image](https://user-images.githubusercontent.com/43761876/136408523-d720a0cd-ded0-4d7d-880f-b136140af7b3.png)
+![image](https://user-images.githubusercontent.com/43761876/136461499-e38bbdf7-c70b-4f23-829b-c529531fd99f.png)
 
 	
 
@@ -40,7 +40,7 @@ This repo is set for Blueocean transition related documentation in aws automatio
 **Lambda_email** : Daily-morning-query-with-column-HeldBack: https://us-west-2.console.aws.amazon.com/lambda/home?region=us-west-2#/functions/Daily-morning-query-with-column-HeldBack?tab=code
 	
 **Lambda_query_daily**: mysql-csv-email: https://us-west-2.console.aws.amazon.com/lambda/home?region=us-west-2#/functions/mysql-csv-email?tab=code
-![image](https://user-images.githubusercontent.com/43761876/136408539-155a8ca4-d133-4733-a172-a26a0c50a7a4.png)
+![image](https://user-images.githubusercontent.com/43761876/136461511-8522944a-9278-4e6b-8667-197ae2f8f1bb.png)
 
 
 
@@ -54,7 +54,7 @@ This repo is set for Blueocean transition related documentation in aws automatio
 ![image](https://user-images.githubusercontent.com/43761876/136408803-901d1bac-b6eb-44c4-8f3f-1400d23a7f8e.png)
 	
 **Lambda_query_weekly**: weekly-mysql-csv-email: https://us-west-2.console.aws.amazon.com/lambda/home?region=us-west-2#/functions/weekly-mysql-csv-email?newFunction=true&tab=code
-![image](https://user-images.githubusercontent.com/43761876/136408902-b660eb6c-49a5-48df-9f13-7be541f75de8.png)
+![image](https://user-images.githubusercontent.com/43761876/136463164-07400a49-e610-4019-8c0c-a94f90587d80.png)
 
 
 
