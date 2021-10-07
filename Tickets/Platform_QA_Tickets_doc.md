@@ -1,6 +1,9 @@
-# Here you can find the documentation for platform QA tickets#
+## 1 You can find useful queries from the two sql files in this folder
+
+## 2 Here you can find the documentation for platform QA tickets
 
 https://app.clickup.com/8664410/v/dc/88dau-4060/88dau-4032
+
 
 
 
