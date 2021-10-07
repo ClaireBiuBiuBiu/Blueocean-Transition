@@ -58,7 +58,5 @@ This repo is set for Blueocean transition related documentation in aws automatio
 
 
 
-**Notes**: 
-	1 Currently no Cloudwatch time scheduled, need to wait Blueocean to find the scenario for VPC in each lambda function to run make the whole process automated.
-	2 Currently can trigger all three csv email attachments by running the scripts in local machine
+
 
