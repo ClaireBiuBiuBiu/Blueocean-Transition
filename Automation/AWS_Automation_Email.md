@@ -56,6 +56,6 @@ This repo is set for Blueocean transition related documentation in aws automatio
 **Lambda_query_weekly**: weekly-mysql-csv-email: https://us-west-2.console.aws.amazon.com/lambda/home?region=us-west-2#/functions/weekly-mysql-csv-email?newFunction=true&tab=code
 ![image](https://user-images.githubusercontent.com/43761876/136463164-07400a49-e610-4019-8c0c-a94f90587d80.png)
 
-**Note: Weekly report refreshing time is every Tuesday 8:00am PST, daily report refreshing time is 8:00 am PST from Monday to Friday
+**Note**: Weekly report refreshing time is every Tuesday 8:00am PST, daily report refreshing time is 8:00 am PST from Monday to Friday
 
 
